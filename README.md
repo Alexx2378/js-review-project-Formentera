@@ -1,5 +1,5 @@
 
-# javaScript Review  Project by write_your_fullname
+# javaScript Review  Project by Alexandra S. Formenteraa
 This project is a review of JavaScript concepts, from beginner to advanced.
 
-# Updating file from github repo and pull changes to local
+# Update file from github repo and pull changes to local
